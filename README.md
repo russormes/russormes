@@ -36,3 +36,4 @@ Interested in how everything works? [Click here](https://github.com/russormes/ru
 | Connect4Bot :robot: | 1    |
 
 [![Russell's github stats](https://github-readme-stats.vercel.app/api?username=russormes&show_icons=true&theme=radical)](https://github.com/russormes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russormes)](https://github.com/russormes/github-readme-stats)
