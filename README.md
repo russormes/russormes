@@ -1,38 +1,27 @@
-# Hey, I'm Russell 👋
+# Hi, I'm Russell Ormes 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@NectarSoft-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NectarSoft)](https://twitter.com/NectarSoft) [![Linkedin Badge](https://img.shields.io/badge/-RussOrmes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/russellormes/)](https://www.linkedin.com/in/russellormes/)
+**A Principled Principal Engineer**
 
-Hi. Russell here. A Principled Principal Engineer.
+I build robust, scalable, and maintainable systems. My focus is on software architecture, domain modeling, and leading high-performing engineering teams. I'm passionate about clean code, effective collaboration, and leveraging technology to solve complex problems.
 
-## :game_die: Join my community Connect Four game!
-![](https://img.shields.io/badge/Moves%20played-27-blue)
-![](https://img.shields.io/badge/Completed%20games-1-brightgreen)
-![](https://img.shields.io/badge/Total%20players-5-orange)
+---
 
-Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
+## 💻 Tech Stack & Expertise
 
-It is the **blue** team's turn to play.
-|[1](https://github.com/russormes/russormes/issues/new?title=connect4%7Cdrop%7Cblue%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[2](https://github.com/russormes/russormes/issues/new?title=connect4%7Cdrop%7Cblue%7C2&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[3](https://github.com/russormes/russormes/issues/new?title=connect4%7Cdrop%7Cblue%7C3&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[4](https://github.com/russormes/russormes/issues/new?title=connect4%7Cdrop%7Cblue%7C4&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[5](https://github.com/russormes/russormes/issues/new?title=connect4%7Cdrop%7Cblue%7C5&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[6](https://github.com/russormes/russormes/issues/new?title=connect4%7Cdrop%7Cblue%7C6&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[7](https://github.com/russormes/russormes/issues/new?title=connect4%7Cdrop%7Cblue%7C7&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|
-| - | - | - | - | - | - | - |
-|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/red.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blue.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/red.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blue.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/red.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blue.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/red.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blue.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/red.png)|![](https://raw.githubusercontent.com/russormes/russormes/master/images/blank.png)|
+Here are the primary technologies and areas I work with:
 
-Tired of waiting? [Request a move](https://github.com/russormes/russormes/issues/new?title=connect4%7Cdrop%7Cblue%7Cai&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) from Connect4Bot :robot: 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript/TypeScript, Go, SQL |
+| **Frameworks** | Node.js (Express), React |
+| **Cloud/DevOps**| AWS (EC2, Lambda, S3, RDS), Docker, Kubernetes, Terraform |
+| **Databases** | PostgreSQL, Redis, DynamoDB |
+| **Architecture**| Microservices, Event-Driven Architecture, Domain-Driven Design (DDD) |
 
-Interested in how everything works? [Click here](https://github.com/russormes/russormes/tree/master/connect4) to read up on what's happening behind the scenes.
 
-**:alarm_clock: Most recent moves**
-| Team | Move | Made by |
-| ---- | ---- | ------- |
-| Red | 2 | Connect4Bot on behalf of [@russormes](https://github.com/russormes) |
-| Blue | 6 | [@russormes](https://github.com/russormes) |
-| Red | 5 | [@crxssed7](https://github.com/crxssed7) |
+## 💬 Connect With Me
 
-**:trophy: Leaderboard: Most game winning moves :100:**
-| Player | Wins |
-| ------ | -----|
-| [@russormes](https://github.com/russormes) | 1 |
+| Icon | Contact Channel |
+| :--- | :--- |
+| [![LinkedIn Badge](https://img.shields.io/badge/-RussellOrmes-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russellormes/) | Find me on LinkedIn for professional networking. |
+| 📧 | Reach out via **russormes [at] gmail.com** |
